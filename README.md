@@ -2,5 +2,5 @@
 Power Bi Files
 
 Example of projects:
-shorturl.at/vwDGJ
+https://tinyurl.com/33zwp2uk
 https://tinyurl.com/2rtpvn9d
